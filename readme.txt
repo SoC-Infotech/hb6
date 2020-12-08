@@ -1,4 +1,4 @@
-* Download Python IDLE to run the application, if you do not have it already.
+* Download Python IDLE to run the application, if you do not have it.
   Link: https://www.python.org/downloads/
 
 * Download "pygame" library (required).
